@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Klopfer 👋
 
-<!--
-**Klopfer12160/Klopfer12160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I graduated from the University of Toronto with a specialist in Economics and Mathematics, and a major in Statistics. I am passionate about learning and applying data-driven methods to social science, aiming to provide more robust insights through those methods.
+
+- 🔭 This page showcases some of my previous projects, which reflect my dedication to combining rigorous quantitative analysis with real-world applications.
+
+- 📫 How to reach me: [jianfeng.huang@mail.utoronto.ca]
+
+Feel free to explore my repositories and connect with me if you have any questions or collaboration ideas. Let's leverage data to make a positive impact!
+
